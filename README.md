@@ -27,11 +27,6 @@ Navigate to the project folder:
 cd ExposureAtDefault
 ```
 
-Install dependencies (if any):
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Example Calculation
 For a credit limit of $100,000, where $50,000 is already used, and the credit conversion factor (CCF) is 40%, the EAD will be:
